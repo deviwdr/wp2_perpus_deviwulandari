@@ -25,8 +25,3 @@
 </div>
 <!-- /.container-fluid -->
 </div>
-<<<<<<< HEAD
-<!-- End of Main Content -->
-=======
-<!-- End of Main Content -->
->>>>>>> ac23d9e9bcbd029468614c05d262330a12046fa9
